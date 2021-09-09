@@ -1,0 +1,59 @@
+[
+   {
+      "Title": "Madras chili  (Cauliflower/Mushroom/Baby Corn/Paneer(+$1))",
+      "Description": "Cauliflower/mushroom/Baby Corn/ Paneer marinated with freshly made madras masala, deep fried and seasoned with onions.",
+      "Price": 7.99,
+      "Availability": "TRUE",
+      "order": 1
+    },
+    {
+      "Title": "Idly (with Sambar/Rasam)",
+      "Description": "Steamed rice and lentils cake served with chutney, Sambar or rasam",
+      "Price": 7.99,
+      "Availability": "TRUE",
+      "order": 2
+    },
+    {
+      "Title": "Mini Idly (with Sambar/Rasam)",
+      "Description": "Coin-sized steamed rice and lentils mini cakes dipped in sambar or rasam",
+      "Price": 7.99,
+      "Availability": "TRUE",
+      "order": 3
+    },
+    {
+      "Title": "Medhu Vada (with Sambar/Rasam)",
+      "Description": "Crispy lentil donut served with chutneys, sambar or rasam.",
+      "Price": 7.99,
+      "Availability": "TRUE",
+      "order": 4
+    },
+    {
+      "Title": "Kuzhi paniyaram",
+      "Description": "Fermented rice and lentil batter steamed in a kuzhi(cup) paniyaram pan served with sambar and chutneys.",
+      "Price": 8.99,
+      "Availability": "TRUE",
+      "order": 5
+    },
+    {
+      "Title": "Veg Pakoda",
+      "Description": "Mixed Vegetables  with gram flour and deep-fried",
+      "Price": 6.99,
+      "Availability": "TRUE",
+      "order": 6
+    },
+    {
+      "Title": "Cut Mirchi",
+      "Description": "Spicy  jalapeño dipped in chickpea flour batter and deep-fried",
+      "Price": 6.99,
+      "Availability": "TRUE",
+      "order": 7
+    },
+    {
+      "Title": "Samosa (2 Pcs)",
+      "Description": "Fried pastry with a savory filling of spiced potatoes, onions, peas and lentils.",
+      "Price": 4.99,
+      "Availability": "TRUE",
+      "order": 8
+    }
+  ]
+  
